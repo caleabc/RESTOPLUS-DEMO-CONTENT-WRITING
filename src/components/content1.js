@@ -14,7 +14,9 @@ function Content1() {
       <h1 className="application-name">
         Difference b/w Cloud Firestore and MongoDB
       </h1>
+
       <Spacer height="1rem" />
+
       <div>
         <p className="paragraph">
           In a high-level overview Cloud firestore is a database and MongoDB is
