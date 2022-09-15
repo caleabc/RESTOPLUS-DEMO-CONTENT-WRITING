@@ -1,0 +1,25 @@
+.main-div {
+   margin-top: 4rem;
+   margin-bottom: 4rem;
+}
+
+.application-name {
+    font-weight: 900;
+}
+
+.img {
+    width: 100%; 
+    height: auto;
+    border-radius: 1rem; 
+}
+
+.paragraph {
+    font-size: 1.2rem;
+}
+
+.heading {
+    margin: 0;
+    font-weight: 900;
+    font-size: 1.3rem;
+}
+
